@@ -1,0 +1,40 @@
+{
+    "url": "https://jacobinmag.com/about",
+    "new_marks": [
+          {
+                "text": "Raison d\u2019\u00eatre",
+                "note": "first note",
+                "color": "#dd99ff"
+          },
+          {
+                "text": "socialist perspectives on politics",
+                "note": "second note",
+                "color": "#ffcc00"
+          },
+          {
+                "text": "to a web audience of over",
+                "note": "third note",
+                "color": "#ffee00"
+          },
+          {
+                "text": "matters of real significance, from a thoughtful left perspective that is refreshing and all too rare. A really impressive contribution to sanity, and hope.",
+                "note": "seventieth note",
+                "color": "#66bbff"
+          },
+          {
+                "text": "been an improbable hit, buoyed by the radical stirrings of the Occupy movement and a bitingly satirical",
+                "note": "ninetieth note",
+                "color": "#ff6666,#ffffff"
+          },
+          {
+                "text": "Lauren Traugott-Campbell",
+                "note": "i lost count a while ago",
+                "color": "#55ff55"
+          },
+          {
+                "text": "Sign up for our mailing l",
+                "note": "a note on red",
+                "color": "#ff6666,#ffffff"
+          }
+    ]
+}
