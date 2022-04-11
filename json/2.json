@@ -1,0 +1,25 @@
+{
+    "url": "https://variety.com/2022/legit/news/james-snyder-harry-potter-and-the-cursed-child-star-fired-from-broadway-show-complaint-1235161065/",
+    "new_marks": [
+          {
+                "text": "Variety is a part of Penske Media Corporation.",
+                "note": "a note",
+                "color": "#dd99ff"
+          },
+          {
+                "text": "2022 Variety Media",
+                "note": "another note",
+                "color": "#66bbff"
+          },
+          {
+                "text": "All Rights Reserved",
+                "note": "notes",
+                "color": "#55ff55"
+          },
+          {
+                "text": "Variety and the Flying V logos are trademarks of Variety Media, LLC.",
+                "note": "more notes",
+                "color": "#ff6666,#ffffff"
+          }
+    ]
+}
