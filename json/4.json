@@ -1,0 +1,40 @@
+{
+            "url": "https://www.lemonde.fr/",
+            "new_marks": [
+                  {
+                        "text": "Suivez Le Monde",
+                        "note": "first note on French site",
+                        "color": "#dd99ff"
+                  },
+                  {
+                        "text": "Abonnement",
+                        "note": "third note on French site",
+                        "color": "#55ff55"
+                  },
+                  {
+                        "text": "Applications Mobiles",
+                        "note": "second note in French",
+                        "color": "#66bbff"
+                  },
+                  {
+                        "text": "Newsletters du mon",
+                        "note": "une note",
+                        "color": "#ff6666,#ffffff"
+                  },
+                  {
+                        "text": "Source S\u00fbre",
+                        "note": "any problem with this accent?",
+                        "color": "#ffcc00"
+                  },
+                  {
+                        "text": "D\u00e9couvrir le jardinage",
+                        "note": "this accent?",
+                        "color": "#dd99ff"
+                  },
+                  {
+                        "text": "Alg\u00e9rie",
+                        "note": "what about this accent?",
+                        "color": "#ffee00"
+                  }
+            ]
+      }

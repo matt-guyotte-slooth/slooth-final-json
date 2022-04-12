@@ -1,0 +1,10 @@
+{
+    "url": "https://english.news.cn/",
+    "new_marks": [
+          {
+                "text": "Copyright \u00a9 2000- 2022 news.cn",
+                "note": "What happens to the copyright symbol? Any problems?",
+                "color": "#ff6666,#ffffff"
+          }
+    ]
+}
