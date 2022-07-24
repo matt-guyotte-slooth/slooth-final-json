@@ -5,7 +5,7 @@
             "text": "Musk’s remarks at Financial Times’ Future of the Car conference mark his first public acknowledgment of what had been widely expected since the billionaire announced plans to buy the social media giant for $44 billion.",
             "note": "cnn note 1",
             "color": "#dd99ff",
-            {
+            "range":{
                 "commonAncestorContainer":"\n      Musk’s remarks at Financial Times’ Future of the Car conference mark his first public acknowledgment of what had been widely expected since the billionaire announced plans to <a href=\"https://www.cnn.com/2022/05/07/business/musk-twitter-revenue/index.html\" target=\"_blank\">buy the social media giant</a> for $44 billion.\n  ",
                 "endContainer":"\n      Musk’s remarks at Financial Times’ Future of the Car conference mark his first public acknowledgment of what had been widely expected since the billionaire announced plans to <a href=\"https://www.cnn.com/2022/05/07/business/musk-twitter-revenue/index.html\" target=\"_blank\">buy the social media giant</a> for $44 billion.\n  ",
                 "endOffset":17,
