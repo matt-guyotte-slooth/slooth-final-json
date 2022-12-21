@@ -4,10 +4,10 @@
       "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/first-woman-reported-cured-hiv-after-bone-marrow-transplant-2022-02-15/",
       "new_marks": [
             {
-                  "question": "Was the patient who was reported as potentially cured of HIV in February 2022 the first woman to be potentially cured?",
-                  "note": "True. Hsu et al (2022) provide the first observational study of HIV remission in a woman. The abstract for the study (number 65, IMPAACT P1107) can be found here: https://www.iasusa.org/wp-content/uploads/2022/03/30-1s-3.pdf",
+                  "note": "Was the patient who was reported as potentially cured of HIV in February 2022 the first woman to be potentially cured?",
+                  "check": "True. Hsu et al (2022) provide the first observational study of HIV remission in a woman. The abstract for the study (number 65, IMPAACT P1107) can be found here: https://www.iasusa.org/wp-content/uploads/2022/03/30-1s-3.pdf",
                   "color": "#0b8700",
-                  "text": "First woman",
+                  "highlight": "First woman",
                   "range": {
                         "startContainer": "First woman reported cured of HIV after stem cell transplant",
                         "startContainerReal": "First woman reported cured of HIV after stem cell transplant",
@@ -24,10 +24,10 @@
                   }
             },
             {
-                  "question": "Were stem cells the medium through which the latest patient (as of February 2022) was potentially cured?",
-                  "note": "True. According to the abstract provided by Hsu et al (2022), \u201cWe report on a woman in ART-free HIV-1 remission for 14 months following CCR5\u220632 homozygous cord blood (CB) and CD34-selected haploidentical stem cell transplant (haplo-cord SCT) for acute myeloid leukemia (AML).\u201d Find the rest of the abstract here: https://www.iasusa.org/wp-content/uploads/2022/03/30-1s-3.pdf.",
+                  "note": "Were stem cells the medium through which the latest patient (as of February 2022) was potentially cured?",
+                  "check": "True. According to the abstract provided by Hsu et al (2022), \u201cWe report on a woman in ART-free HIV-1 remission for 14 months following CCR5\u220632 homozygous cord blood (CB) and CD34-selected haploidentical stem cell transplant (haplo-cord SCT) for acute myeloid leukemia (AML).\u201d Find the rest of the abstract here: https://www.iasusa.org/wp-content/uploads/2022/03/30-1s-3.pdf.",
                   "color": "#0b8700",
-                  "text": "receiving a stem cell transplant",
+                  "highlight": "receiving a stem cell transplant",
                   "range": {
                         "startContainer": "CHICAGO, Feb 15 (Reuters) - A <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"U.S. patient with leukemia\">U.S. patient with leukemia</span> has become the <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"first woman\">first woman</span> and the <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"third person to date to be cured of HIV\">third person to date to be cured of HIV</span> after receiving a stem cell transplant from a donor who was naturally resistant to the virus that causes AIDS, researchers reported on Tuesday.",
                         "startContainerReal": "CHICAGO, Feb 15 (Reuters) - A <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"U.S. patient with leukemia\">U.S. patient with leukemia</span> has become the <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"first woman\">first woman</span> and the <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"third person to date to be cured of HIV\">third person to date to be cured of HIV</span> after receiving a stem cell transplant from a donor who was naturally resistant to the virus that causes AIDS, researchers reported on Tuesday.",
@@ -44,10 +44,10 @@
                   }
             },
             {
-                  "question": "Was the latest patient to be potentially cured of HIV (as of February 2022) treated in the US?",
-                  "note": "True. This patient was treated as part of IMPAACT P1107, \"an observational study of persons living with HIV in the U.S. who undergo transplantation with CCR5\u039432 cord blood stem cells for treatment of cancer or other illness,\" according to its website (https://www.impaactnetwork.org/news/2022/impaact-p1107-team-presents-first-known-case-woman-hiv-remission). Information about the status of IMPAACT P1107 as a clinical trial are available here: https://clinicaltrials.gov/ct2/show/NCT02140944.",
+                  "note": "Was the latest patient to be potentially cured of HIV (as of February 2022) treated in the US?",
+                  "check": "True. This patient was treated as part of IMPAACT P1107, \"an observational study of persons living with HIV in the U.S. who undergo transplantation with CCR5\u039432 cord blood stem cells for treatment of cancer or other illness,\" according to its website (https://www.impaactnetwork.org/news/2022/impaact-p1107-team-presents-first-known-case-woman-hiv-remission). Information about the status of IMPAACT P1107 as a clinical trial are available here: https://clinicaltrials.gov/ct2/show/NCT02140944.",
                   "color": "#0b8700",
-                  "text": "U.S. patient with leukemia",
+                  "highlight": "U.S. patient with leukemia",
                   "range": {
                         "startContainer": "CHICAGO, Feb 15 (Reuters) - A U.S. patient with leukemia has become the first woman and the third person to date to be cured of HIV after receiving a stem cell transplant from a donor who was naturally resistant to the virus that causes AIDS, researchers reported on Tuesday.",
                         "startContainerReal": "CHICAGO, Feb 15 (Reuters) - A U.S. patient with leukemia has become the first woman and the third person to date to be cured of HIV after receiving a stem cell transplant from a donor who was naturally resistant to the virus that causes AIDS, researchers reported on Tuesday.",
@@ -64,10 +64,10 @@
                   }
             },
             {
-                  "question": "Was the February 2022 patient a woman? Was she the first woman to be potentially cured of HIV?",
-                  "note": "True. Hsu et al (2022) provide the first observational study of HIV remission in a woman. The abstract for the study (number 65, IMPAACT P1107) can be found here: https://www.iasusa.org/wp-content/uploads/2022/03/30-1s-3.pdf.",
+                  "note": "Was the February 2022 patient a woman? Was she the first woman to be potentially cured of HIV?",
+                  "check": "True. Hsu et al (2022) provide the first observational study of HIV remission in a woman. The abstract for the study (number 65, IMPAACT P1107) can be found here: https://www.iasusa.org/wp-content/uploads/2022/03/30-1s-3.pdf.",
                   "color": "#0b8700",
-                  "text": "first woman",
+                  "highlight": "first woman",
                   "range": {
                         "startContainer": "CHICAGO, Feb 15 (Reuters) - A <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"U.S. patient with leukemia\">U.S. patient with leukemia</span> has become the first woman and the third person to date to be cured of HIV after receiving a stem cell transplant from a donor who was naturally resistant to the virus that causes AIDS, researchers reported on Tuesday.",
                         "startContainerReal": "CHICAGO, Feb 15 (Reuters) - A <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"U.S. patient with leukemia\">U.S. patient with leukemia</span> has become the first woman and the third person to date to be cured of HIV after receiving a stem cell transplant from a donor who was naturally resistant to the virus that causes AIDS, researchers reported on Tuesday.",
@@ -84,10 +84,10 @@
                   }
             },
             {
-                  "question": "Was the February 2022 patient the third person to be potentially cured of HIV?",
-                  "note": "True. In addition to the current patient, there were two previous patients who were reported cured of HIV. The studies of the three patients are summarized in the Hutter et al (2009) (https://www.nejm.org/doi/full/10.1056/NEJMoa0802905), Gupta et al (2019) (https://www.nature.com/articles/s41586-019-1027-4), and Hsu et al (2022) (https://www.iasusa.org/wp-content/uploads/2022/03/30-1s-3.pdf, #65), respectively.",
+                  "note": "Was the February 2022 patient the third person to be potentially cured of HIV?",
+                  "check": "True. In addition to the current patient, there were two previous patients who were reported cured of HIV. The studies of the three patients are summarized in the Hutter et al (2009) (https://www.nejm.org/doi/full/10.1056/NEJMoa0802905), Gupta et al (2019) (https://www.nature.com/articles/s41586-019-1027-4), and Hsu et al (2022) (https://www.iasusa.org/wp-content/uploads/2022/03/30-1s-3.pdf, #65), respectively.",
                   "color": "#0b8700",
-                  "text": "third person to date to be cured of HIV",
+                  "highlight": "third person to date to be cured of HIV",
                   "range": {
                         "startContainer": "CHICAGO, Feb 15 (Reuters) - A <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"U.S. patient with leukemia\">U.S. patient with leukemia</span> has become the <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"first woman\">first woman</span> and the third person to date to be cured of HIV after receiving a stem cell transplant from a donor who was naturally resistant to the virus that causes AIDS, researchers reported on Tuesday.",
                         "startContainerReal": "CHICAGO, Feb 15 (Reuters) - A <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"U.S. patient with leukemia\">U.S. patient with leukemia</span> has become the <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"first woman\">first woman</span> and the third person to date to be cured of HIV after receiving a stem cell transplant from a donor who was naturally resistant to the virus that causes AIDS, researchers reported on Tuesday.",
@@ -104,10 +104,10 @@
                   }
             },
             {
-                  "question": "Was the stem cell donor to the February 2022 patient naturally resistant to HIV?",
-                  "note": "True. Hsu et al (2022) report that this patient has been treated with umbilical cord blood containing a mutation that is known to be resistant to HIV infection. See Schmidt et al (1996) for foundational results about this resistance: https://www.nature.com/articles/382722a0.",
+                  "note": "Was the stem cell donor to the February 2022 patient naturally resistant to HIV?",
+                  "check": "True. Hsu et al (2022) report that this patient has been treated with umbilical cord blood containing a mutation that is known to be resistant to HIV infection. See Schmidt et al (1996) for foundational results about this resistance: https://www.nature.com/articles/382722a0.",
                   "color": "#0b8700",
-                  "text": "donor who was naturally resistant to the virus that causes AIDS",
+                  "highlight": "donor who was naturally resistant to the virus that causes AIDS",
                   "range": {
                         "startContainer": "CHICAGO, Feb 15 (Reuters) - A <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"U.S. patient with leukemia\">U.S. patient with leukemia</span> has become the <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"first woman\">first woman</span> and the <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"third person to date to be cured of HIV\">third person to date to be cured of HIV</span> after <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"receiving a stem cell transplant\">receiving a stem cell transplant</span> from a donor who was naturally resistant to the virus that causes AIDS, researchers reported on Tuesday.",
                         "startContainerReal": "CHICAGO, Feb 15 (Reuters) - A <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"U.S. patient with leukemia\">U.S. patient with leukemia</span> has become the <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"first woman\">first woman</span> and the <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"third person to date to be cured of HIV\">third person to date to be cured of HIV</span> after <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"receiving a stem cell transplant\">receiving a stem cell transplant</span> from a donor who was naturally resistant to the virus that causes AIDS, researchers reported on Tuesday.",
@@ -124,10 +124,10 @@
                   }
             },
             {
-                  "question": "Which researchers reported that the February 2022 patient was potentially cured of HIV?",
-                  "note": "True. The team that reported the latest HIV cure is composed of researchers. Their names are JingMei Hsu, Koen Van Besien, Marshall J. Glesby, Anne Coletti, Savita G. Pahwa, Meredith Warshaw, Amanda Golner, Frederic Bone, Nicole Tobin, Marcie Riches, John W. Mellors, Renee Browning, Deborah Persaud, and Yvonne Bryson. Their institutional affiliations can be found here: https://www.iasusa.org/wp-content/uploads/2022/03/30-1s-3.pdf.",
+                  "note": "Which researchers reported that the February 2022 patient was potentially cured of HIV?",
+                  "check": "True. The team that reported the latest HIV cure is composed of researchers. Their names are JingMei Hsu, Koen Van Besien, Marshall J. Glesby, Anne Coletti, Savita G. Pahwa, Meredith Warshaw, Amanda Golner, Frederic Bone, Nicole Tobin, Marcie Riches, John W. Mellors, Renee Browning, Deborah Persaud, and Yvonne Bryson. Their institutional affiliations can be found here: https://www.iasusa.org/wp-content/uploads/2022/03/30-1s-3.pdf.",
                   "color": "#0b8700",
-                  "text": "middle-aged",
+                  "highlight": "middle-aged",
                   "range": {
                         "startContainer": "The case of a middle-aged woman of mixed race, presented at the Conference on Retroviruses and Opportunisitic Infections in Denver, is also the first involving umbilical cord blood, a newer approach that may make the treatment available to more people.",
                         "startContainerReal": "The case of a middle-aged woman of mixed race, presented at the Conference on Retroviruses and Opportunisitic Infections in Denver, is also the first involving umbilical cord blood, a newer approach that may make the treatment available to more people.",
@@ -144,10 +144,10 @@
                   }
             },
             {
-                  "question": "Was the February 2022 patient of mixed race?",
-                  "note": "True. Hsu et al (2022) reported that this patient is a \" middle-aged U.S. woman of mixed race\" in their talk at the 2022 Conference on Retroviruses and Opportunistic Infections (https://www.iasusa.org/wp-content/uploads/2022/03/30-1s-3.pdf).",
+                  "note": "Was the February 2022 patient of mixed race?",
+                  "check": "True. Hsu et al (2022) reported that this patient is a \" middle-aged U.S. woman of mixed race\" in their talk at the 2022 Conference on Retroviruses and Opportunistic Infections (https://www.iasusa.org/wp-content/uploads/2022/03/30-1s-3.pdf).",
                   "color": "#0b8700",
-                  "text": "mixed race",
+                  "highlight": "mixed race",
                   "range": {
                         "startContainer": "The case of a <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"middle-aged\">middle-aged</span> woman of mixed race, presented at the Conference on Retroviruses and Opportunisitic Infections in Denver, is also the first involving umbilical cord blood, a newer approach that may make the treatment available to more people.",
                         "startContainerReal": "The case of a <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"middle-aged\">middle-aged</span> woman of mixed race, presented at the Conference on Retroviruses and Opportunisitic Infections in Denver, is also the first involving umbilical cord blood, a newer approach that may make the treatment available to more people.",
@@ -164,10 +164,10 @@
                   }
             },
             {
-                  "question": "Was the February 2022 patient's case announced at the Conference on Retroviruses and Opportunistic Infections?",
-                  "note": "True. The abstract for the talk where this patient's results were announced is here (number 65): https://www.iasusa.org/wp-content/uploads/2022/03/30-1s-3.pdf.",
+                  "note": "Was the February 2022 patient's case announced at the Conference on Retroviruses and Opportunistic Infections?",
+                  "check": "True. The abstract for the talk where this patient's results were announced is here (number 65): https://www.iasusa.org/wp-content/uploads/2022/03/30-1s-3.pdf.",
                   "color": "#0b8700",
-                  "text": "Conference on Retroviruses and Opportunisitic Infections",
+                  "highlight": "Conference on Retroviruses and Opportunisitic Infections",
                   "range": {
                         "startContainer": "The case of a <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"middle-aged\">middle-aged</span> woman of <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"mixed race\">mixed race</span>, presented at the Conference on Retroviruses and Opportunisitic Infections in Denver, is also the first involving umbilical cord blood, a newer approach that may make the treatment available to more people.",
                         "startContainerReal": "The case of a <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"middle-aged\">middle-aged</span> woman of <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"mixed race\">mixed race</span>, presented at the Conference on Retroviruses and Opportunisitic Infections in Denver, is also the first involving umbilical cord blood, a newer approach that may make the treatment available to more people.",
@@ -184,10 +184,10 @@
                   }
             },
             {
-                  "question": "Did the 2022 Conference on Retroviruses and Opportunisitic [sic] Infections take place in Denver?",
-                  "note": "Somewhat false. Although the 2022 Conference on Retroviruses and Opportunistic Infections was scheduled to take place in person in Denver, it was converted to a fully virtual conference. The conference organizers issued refunds to participants who registered for in-person attendance: https://www.croiconference.org/croi-2022-refunds-for-converting-an-in-person-to-virtual-registration-will-begin-processing-next-week.",
+                  "note": "Did the 2022 Conference on Retroviruses and Opportunisitic [sic] Infections take place in Denver?",
+                  "check": "Somewhat false. Although the 2022 Conference on Retroviruses and Opportunistic Infections was scheduled to take place in person in Denver, it was converted to a fully virtual conference. The conference organizers issued refunds to participants who registered for in-person attendance: https://www.croiconference.org/croi-2022-refunds-for-converting-an-in-person-to-virtual-registration-will-begin-processing-next-week.",
                   "color": "#ff9200",
-                  "text": "Denver",
+                  "highlight": "Denver",
                   "range": {
                         "startContainer": "The case of a <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"middle-aged\">middle-aged</span> woman of <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"mixed race\">mixed race</span>, presented at the <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"Conference on Retroviruses and Opportunisitic Infections\">Conference on Retroviruses and Opportunisitic Infections</span> in Denver, is also the first involving umbilical cord blood, a newer approach that may make the treatment available to more people.",
                         "startContainerReal": "The case of a <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"middle-aged\">middle-aged</span> woman of <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"mixed race\">mixed race</span>, presented at the <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"Conference on Retroviruses and Opportunisitic Infections\">Conference on Retroviruses and Opportunisitic Infections</span> in Denver, is also the first involving umbilical cord blood, a newer approach that may make the treatment available to more people.",
@@ -204,10 +204,10 @@
                   }
             },
             {
-                  "question": "Was the February 2022 patient's case the \"first involving umbilical cord blood?\"",
-                  "note": "True. Of the patients considered cured of HIV/AIDS, this patient is the first whose cure involved umbilical cord blood. See Hsu et al (2018) for more details: https://ashpublications.org/blood/article/132/Supplement%201/2184/261755.",
+                  "note": "Was the February 2022 patient's case the \"first involving umbilical cord blood?\"",
+                  "check": "True. Of the patients considered cured of HIV/AIDS, this patient is the first whose cure involved umbilical cord blood. See Hsu et al (2018) for more details: https://ashpublications.org/blood/article/132/Supplement%201/2184/261755.",
                   "color": "#0b8700",
-                  "text": "first involving umbilical cord blood",
+                  "highlight": "first involving umbilical cord blood",
                   "range": {
                         "startContainer": "The case of a <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"middle-aged\">middle-aged</span> woman of <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"mixed race\">mixed race</span>, presented at the <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"Conference on Retroviruses and Opportunisitic Infections\">Conference on Retroviruses and Opportunisitic Infections</span> in <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"Denver\">Denver</span>, is also the first involving umbilical cord blood, a newer approach that may make the treatment available to more people.",
                         "startContainerReal": "The case of a <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"middle-aged\">middle-aged</span> woman of <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"mixed race\">mixed race</span>, presented at the <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"Conference on Retroviruses and Opportunisitic Infections\">Conference on Retroviruses and Opportunisitic Infections</span> in <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"Denver\">Denver</span>, is also the first involving umbilical cord blood, a newer approach that may make the treatment available to more people.",
@@ -224,10 +224,10 @@
                   }
             },
             {
-                  "question": "Did the February 2022 patient receive the cord blood to treat her acute myeloid leukemia?",
-                  "note": "True. Hsu et al (2018) and Hsu et al (2022) describe this patient's treatment for acute myeloid leukemia (AML) in the following, respective studies: https://ashpublications.org/blood/article/132/Supplement%201/2184/261755 and https://www.iasusa.org/wp-content/uploads/2022/03/30-1s-3.pdf.",
+                  "note": "Did the February 2022 patient receive the cord blood to treat her acute myeloid leukemia?",
+                  "check": "True. Hsu et al (2018) and Hsu et al (2022) describe this patient's treatment for acute myeloid leukemia (AML) in the following, respective studies: https://ashpublications.org/blood/article/132/Supplement%201/2184/261755 and https://www.iasusa.org/wp-content/uploads/2022/03/30-1s-3.pdf.",
                   "color": "#0b8700",
-                  "text": "receiving the cord blood to treat her acute myeloid leukemia",
+                  "highlight": "receiving the cord blood to treat her acute myeloid leukemia",
                   "range": {
                         "startContainer": "Since receiving the cord blood to treat her acute myeloid leukemia - a cancer that starts in blood-forming cells in the bone marrow - the woman has been in remission and free of the virus for 14 months, without the need for potent HIV treatments known as antiretroviral therapy.",
                         "startContainerReal": "Since receiving the cord blood to treat her acute myeloid leukemia - a cancer that starts in blood-forming cells in the bone marrow - the woman has been in remission and free of the virus for 14 months, without the need for potent HIV treatments known as antiretroviral therapy.",
@@ -244,10 +244,10 @@
                   }
             },
             {
-                  "question": "Is acute myeloid leukemia \"a cancer that starts in blood-forming cells in the bone marrow?\"",
-                  "note": "True. Lowenberg et al (1999) describe acute myeloid leukemia here: https://www.nejm.org/doi/full/10.1056/nejm199909303411407.",
+                  "note": "Is acute myeloid leukemia \"a cancer that starts in blood-forming cells in the bone marrow?\"",
+                  "check": "True. Lowenberg et al (1999) describe acute myeloid leukemia here: https://www.nejm.org/doi/full/10.1056/nejm199909303411407.",
                   "color": "#0b8700",
-                  "text": "cancer that starts in blood-forming cells in the bone marrow",
+                  "highlight": "cancer that starts in blood-forming cells in the bone marrow",
                   "range": {
                         "startContainer": "Since <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"receiving the cord blood to treat her acute myeloid leukemia\">receiving the cord blood to treat her acute myeloid leukemia</span> - a cancer that starts in blood-forming cells in the bone marrow - the woman has been in remission and free of the virus for 14 months, without the need for potent HIV treatments known as antiretroviral therapy.",
                         "startContainerReal": "Since <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"receiving the cord blood to treat her acute myeloid leukemia\">receiving the cord blood to treat her acute myeloid leukemia</span> - a cancer that starts in blood-forming cells in the bone marrow - the woman has been in remission and free of the virus for 14 months, without the need for potent HIV treatments known as antiretroviral therapy.",
@@ -264,10 +264,10 @@
                   }
             },
             {
-                  "question": "Did the February 2022 patient enter remission in December 2020?",
-                  "note": "Somewhat true. According to the timeline outlined by Hsu et al (2018) and Hsu et al (2022, #65), this patient's remission (14 months after stopping ART) began in November or December 2021. The patient would have stopped ART in or around September 2020. The respective studies are available using the following links: https://ashpublications.org/blood/article/132/Supplement%201/2184/261755, https://www.iasusa.org/wp-content/uploads/2022/03/30-1s-3.pdf.",
+                  "note": "Did the February 2022 patient enter remission in December 2020?",
+                  "check": "Somewhat true. According to the timeline outlined by Hsu et al (2018) and Hsu et al (2022, #65), this patient's remission (14 months after stopping ART) began in November or December 2021. The patient would have stopped ART in or around September 2020. The respective studies are available using the following links: https://ashpublications.org/blood/article/132/Supplement%201/2184/261755, https://www.iasusa.org/wp-content/uploads/2022/03/30-1s-3.pdf.",
                   "color": "#d3ff00",
-                  "text": "in remission and free of the virus for 14 months",
+                  "highlight": "in remission and free of the virus for 14 months",
                   "range": {
                         "startContainer": "Since <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"receiving the cord blood to treat her acute myeloid leukemia\">receiving the cord blood to treat her acute myeloid leukemia</span> - a <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"cancer that starts in blood-forming cells in the bone marrow\">cancer that starts in blood-forming cells in the bone marrow</span> - the woman has been in remission and free of the virus for 14 months, without the need for potent HIV treatments known as antiretroviral therapy.",
                         "startContainerReal": "Since <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"receiving the cord blood to treat her acute myeloid leukemia\">receiving the cord blood to treat her acute myeloid leukemia</span> - a <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"cancer that starts in blood-forming cells in the bone marrow\">cancer that starts in blood-forming cells in the bone marrow</span> - the woman has been in remission and free of the virus for 14 months, without the need for potent HIV treatments known as antiretroviral therapy.",
@@ -284,10 +284,10 @@
                   }
             },
             {
-                  "question": "Has the February 2022 patient been without antiretroviral therapy since December 2020?",
-                  "note": "Somewhat true. According to the timeline outlined by Hsu et al (2018) and Hsu et al (2022, #65), this patient's remission (14 months after stopping ART) began in November or December 2021. The patient would have stopped ART in or around September 2020. The respective studies are available using the following links: https://ashpublications.org/blood/article/132/Supplement%201/2184/261755, https://www.iasusa.org/wp-content/uploads/2022/03/30-1s-3.pdf.",
+                  "note": "Has the February 2022 patient been without antiretroviral therapy since December 2020?",
+                  "check": "Somewhat true. According to the timeline outlined by Hsu et al (2018) and Hsu et al (2022, #65), this patient's remission (14 months after stopping ART) began in November or December 2021. The patient would have stopped ART in or around September 2020. The respective studies are available using the following links: https://ashpublications.org/blood/article/132/Supplement%201/2184/261755, https://www.iasusa.org/wp-content/uploads/2022/03/30-1s-3.pdf.",
                   "color": "#d3ff00",
-                  "text": "without the need for potent HIV treatments known as antiretroviral therapy",
+                  "highlight": "without the need for potent HIV treatments known as antiretroviral therapy",
                   "range": {
                         "startContainer": "Since <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"receiving the cord blood to treat her acute myeloid leukemia\">receiving the cord blood to treat her acute myeloid leukemia</span> - a <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"cancer that starts in blood-forming cells in the bone marrow\">cancer that starts in blood-forming cells in the bone marrow</span> - the woman has been <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"in remission and free of the virus for 14 months\">in remission and free of the virus for 14 months</span>, without the need for potent HIV treatments known as antiretroviral therapy.",
                         "startContainerReal": "Since <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"receiving the cord blood to treat her acute myeloid leukemia\">receiving the cord blood to treat her acute myeloid leukemia</span> - a <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"cancer that starts in blood-forming cells in the bone marrow\">cancer that starts in blood-forming cells in the bone marrow</span> - the woman has been <span class=\"slooth-check-popup\" style=\"background-color: yellow; display: inline;\" value=\"in remission and free of the virus for 14 months\">in remission and free of the virus for 14 months</span>, without the need for potent HIV treatments known as antiretroviral therapy.",
@@ -304,10 +304,10 @@
                   }
             },
             {
-                  "question": "Were the two people who were potentially cured of HIV prior to the February 2022 men?",
-                  "note": "True. Hutter et al (2009) shows that the first patient, known as the \"Berlin Patient\" was a man (https://www.nejm.org/doi/full/10.1056/NEJMoa0802905) and Gupta et al (2019) states that the second patient, known as the \"London Patient\", was a man (https://www.nature.com/articles/s41586-019-1027-4).",
+                  "note": "Were the two people who were potentially cured of HIV prior to the February 2022 men?",
+                  "check": "True. Hutter et al (2009) shows that the first patient, known as the \"Berlin Patient\" was a man (https://www.nejm.org/doi/full/10.1056/NEJMoa0802905) and Gupta et al (2019) states that the second patient, known as the \"London Patient\", was a man (https://www.nature.com/articles/s41586-019-1027-4).",
                   "color": "#0b8700",
-                  "text": "The two prior cases occurred in males",
+                  "highlight": "The two prior cases occurred in males",
                   "range": {
                         "startContainer": "The two prior cases occurred in males - one white and one Latino - who had received adult stem cells, which are more frequently used in bone marrow transplants.",
                         "startContainerReal": "The two prior cases occurred in males - one white and one Latino - who had received adult stem cells, which are more frequently used in bone marrow transplants.",
@@ -324,10 +324,10 @@
                   }
             },
             {
-                  "question": "Speculation. Expert opinion, but opinion nonetheless.",
-                  "note": "Speculation. This is an expert opinion, but an opinion nonetheless.",
+                  "note": "Speculation. Expert opinion, but opinion nonetheless.",
+                  "check": "Speculation. This is an expert opinion, but an opinion nonetheless.",
                   "color": "#9b9b9b",
-                  "text": "There\u2019s something magical about these cells and something magical perhaps about the cord blood in general that provides an extra benefit",
+                  "highlight": "There\u2019s something magical about these cells and something magical perhaps about the cord blood in general that provides an extra benefit",
                   "range": {
                         "startContainer": "\u201cUmbilical stem cells are attractive,\u201d Dr. Deeks said. \u201cThere\u2019s something magical about these cells and something magical perhaps about the cord blood in general that provides an extra benefit.\u201d",
                         "startContainerReal": "\u201cUmbilical stem cells are attractive,\u201d Dr. Deeks said. \u201cThere\u2019s something magical about these cells and something magical perhaps about the cord blood in general that provides an extra benefit.\u201d",
